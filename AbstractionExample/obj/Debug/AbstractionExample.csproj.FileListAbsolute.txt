@@ -1,0 +1,7 @@
+D:\_ACER\Desktop\МГ\ООП\AbstractionExample\AbstractionExample\bin\Debug\AbstractionExample.exe.config
+D:\_ACER\Desktop\МГ\ООП\AbstractionExample\AbstractionExample\bin\Debug\AbstractionExample.exe
+D:\_ACER\Desktop\МГ\ООП\AbstractionExample\AbstractionExample\bin\Debug\AbstractionExample.pdb
+D:\_ACER\Desktop\МГ\ООП\AbstractionExample\AbstractionExample\obj\Debug\AbstractionExample.csproj.AssemblyReference.cache
+D:\_ACER\Desktop\МГ\ООП\AbstractionExample\AbstractionExample\obj\Debug\AbstractionExample.csproj.CoreCompileInputs.cache
+D:\_ACER\Desktop\МГ\ООП\AbstractionExample\AbstractionExample\obj\Debug\AbstractionExample.exe
+D:\_ACER\Desktop\МГ\ООП\AbstractionExample\AbstractionExample\obj\Debug\AbstractionExample.pdb
