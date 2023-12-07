@@ -22,6 +22,7 @@ namespace AbstractionExample
                 totalArea += figures[i].Area(); //абстракция (знаем какво прави метода, не знаем как го прави)
             }
             Console.WriteLine("Total area: {0}", totalArea);
+            Console.WriteLine("End!");
         }
         static IFigure InputFigure()
         {
